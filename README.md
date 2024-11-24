@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KiteCodes
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development, Embedded Systems and Software Engineering.
 - 🌱 I’m currently learning Java and React but also work with different tools.
 - 💞️ I’m looking to collaborate on projects that make me improve.
 - 📫 You can reach me on...
